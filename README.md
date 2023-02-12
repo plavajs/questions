@@ -36,7 +36,7 @@ A little Java project for my friend who asked me to create a simple application 
 			}
 		],
 		"correctAnswer": "C"
-    "hasImage": false
+		"hasImage": false
 	},
   ...
 ]
