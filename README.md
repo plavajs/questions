@@ -13,6 +13,7 @@ A little Java project for my friend who asked me to create a simple application 
   - that means the 'a)/b)/c)' in the answers are mandatory
 
 ## all-questions.json schema
+<pre>
 [
 	{
 		"allQuestionsNumber": 1,
@@ -39,3 +40,4 @@ A little Java project for my friend who asked me to create a simple application 
 	},
   ...
 ]
+</pre>
